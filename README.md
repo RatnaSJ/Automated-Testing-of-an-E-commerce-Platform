@@ -1,4 +1,4 @@
-ProjectName - Automated Testing of an E-commerce Platform
+ProjectName - Automated Testing of an E-commerce Platform 
 ProjectName is a Python project designed for automated testing of an e-commerce platform using Selenium WebDriver. The target website for testing is hosted at https://tutorialsninja.com/demo/.
 
 Table of Contents
